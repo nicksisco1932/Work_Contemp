@@ -9,7 +9,7 @@ This repository is maintained privately by Dr. Nicholas J. Sisco, Ph.D., for the
 All entries are timestamped, factual, and intended to preserve professional integrity in high-risk organizational climates.
 
 ---
-# Kat [Last Name]
+# Kat Godinho
 **Role:** Clinical Sales Specialist  
 **First Noted Interaction:** March 2025
 
@@ -30,7 +30,7 @@ All entries are timestamped, factual, and intended to preserve professional inte
 - Unlikely to accept deferment to clinical leadership without external reinforcement.
 
 ---
-# Sue [Last Name]
+# Sue Owens
 **Role:** [Unknown or Sales Team Member]  
 **First Noted Interaction:** [Insert date]
 
