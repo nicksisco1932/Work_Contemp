@@ -31,8 +31,8 @@ All entries are timestamped, factual, and intended to preserve professional inte
 
 ---
 # Sue Owens
-**Role:** [Unknown or Sales Team Member]  
-**First Noted Interaction:** [Insert date]
+**Role:** Capital Sales Executive 
+**First Noted Interaction:** February 28, 2025
 
 ## Behavior Summary
 - [Pending updates based on observations. Placeholder for documentation.]
