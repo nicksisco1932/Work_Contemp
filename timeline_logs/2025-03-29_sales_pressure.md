@@ -31,14 +31,21 @@ All entries are timestamped, factual, and intended to preserve professional inte
 
 ---
 # Sue Owens
-**Role:** Capital Sales Executive 
-**First Noted Interaction:** February 28, 2025
+**Role:** Sales Team Member (Regional)  
+**First Noted Interaction:** February–March 2025
 
 ## Behavior Summary
-- [Pending updates based on observations. Placeholder for documentation.]
+- Frequently requests access to clinical treatment reports.
+- Frames requests as casual or relational (e.g., “can you CC me?”) instead of going through formal process.
+- Attempts to reframe intent post hoc when access is denied (“original intent… is being misconstrued”).
+- Uses direct messaging channels to bypass team-level communication.
+- Responds positively to reinforcement of boundaries but only after redirection.
 
-## Communication Samples
-- [Quote or date of interaction]
+## Communication Tone
+- Casual, friendly, at times overly informal.
+- Mixes clinical requests with social conversation.
+- Attempts to build rapport in parallel with access attempts.
 
 ## Risk Profile
-- [To be determined — await further interactions before assigning behavioral pattern.]
+- Moderate.  
+  Not overtly adversarial, but patterns indicate a tendency to blur professional boundaries in service of goals. Could unintentionally overstep roles without realizing the regulatory consequences. Requires clear, documented boundaries.
