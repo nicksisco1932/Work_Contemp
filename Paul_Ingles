@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Professional Conduct Documentation – Nick Sisco, Ph.D.</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      margin: 2rem auto;
+      max-width: 900px;
+      padding: 2rem;
+      color: #212529;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #343a40;
+    }
+    .incident {
+      background: #ffffff;
+      border-left: 5px solid #007bff;
+      padding: 1rem 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    .incident h3 {
+      margin-top: 0;
+      color: #0056b3;
+    }
+    .tag {
+      font-weight: bold;
+      color: #495057;
+    }
+    code {
+      background: #e9ecef;
+      padding: 0.2rem 0.4rem;
+      font-size: 0.95em;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Professional Conduct Documentation</h1>
+  <p><strong>Compiled by:</strong> Dr. Nicholas J. Sisco<br/>
+     <strong>Position:</strong> Clinical Scientist<br/>
+     <strong>Scope:</strong> Documentation of hostile behavior, gaslighting, and misconduct involving Paul [Last Name, if included internally]</p>
+
+  <div class="incident">
+    <h3>Incident #1 – Profane Language and Verbal Abuse</h3>
+    <p><span class="tag">Date:</span> Fall 2024</p>
+    <p><span class="tag">Context:</span> During a call regarding a clinical science eligibility report, Paul stated, <code>"What a piece of shit report this is. It’s the biggest piece of shit report I’ve ever seen."</code></p>
+    <p><span class="tag">Commentary:</span> This language was unprovoked and inappropriate. The report was technically sound and aligned with clinical scope, but Paul was frustrated that it did not contain declarative language on eligibility, which had already been ruled outside the clinical scientist’s role.</p>
+  </div>
+
+  <div class="incident">
+    <h3>Incident #2 – Inappropriate Behavior in MR Room</h3>
+    <p><span class="tag">Date:</span> Spring 2025</p>
+    <p><span class="tag">Context:</span> Paul made homophobic jokes in the MR room in front of multiple witnesses (2 nurses, 1 anesthesiologist, 1 urologist, 1 radiologist, 3 MR techs). This created a hostile environment and reflected a serious lapse in professional decorum.</p>
+  </div>
+
+  <div class="incident">
+    <h3>Incident #3 – Repeated Gaslighting and Role Misassignment</h3>
+    <p><span class="tag">Date:</span> Ongoing (2024–2025)</p>
+    <p><span class="tag">Context:</span> Paul routinely attempted to shift responsibility for tool inventory tracking onto the clinical team, despite repeated clarifications that this falls under site-level operations. He often used emotionally manipulative language to pressure others into compliance.</p>
+  </div>
+
+  <div class="incident">
+    <h3>Incident #4 – Hostile and Manipulative Email (May 20, 2025)</h3>
+    <p><span class="tag">Quote:</span> <code>"You'd care if you were paying the bills, Nick."</code></p>
+    <p><span class="tag">Commentary:</span> This ad hominem remark misrepresents Dr. Sisco’s background (including prior NIH grant oversight) and attempts to discredit him based on an unfounded personal assertion. It was delivered in response to a clear and professional boundary-setting email.</p>
+  </div>
+
+  <div class="incident">
+    <h3>Incident #5 – Technology-Related Tantrums During Reviews</h3>
+    <p><span class="tag">Date:</span> Ongoing</p>
+    <p><span class="tag">Context:</span> During eligibility reviews, Paul frequently uses profane language directed at technology or tools. These outbursts disrupt the working environment and contribute to a pattern of emotionally volatile behavior.</p>
+  </div>
+
+  <p><strong>Note:</strong> This documentation reflects factual, dated incidents based on direct observation, emails, and witnessed events. It is intended for internal reference or formal escalation as needed.</p>
+
+</body>
+</html>
