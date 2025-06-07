@@ -110,6 +110,17 @@ He emphasized tool reimbursement and resisted redirection to protocol.
 Pattern Link:
 This fits an escalating pattern of on-site boundary pushing and attempts to assert dominance outside of professional process.
 
+📌 Incident #7 – Culturally Insensitive Nicknaming
+
+Date: Ongoing (2025)
+Context:
+Paul has repeatedly referred to a Chinese-American female colleague using the Mandarin phrase for "let’s go" as a nickname. This behavior appears to reduce her identity to her ethnicity and is delivered in a tone that suggests mockery or trivialization, not respect or camaraderie.
+
+Impact:
+This conduct is culturally insensitive and reinforces a hostile, exclusionary environment. It singles out a colleague based on ethnicity and normalizes inappropriate commentary in a clinical setting. When combined with Paul's ongoing verbal hostility and pattern of dominance, it demonstrates a sustained disregard for basic professionalism and respect.
+
+Notes:
+The nickname was not self-selected by the colleague and has not been publicly embraced. It was used in casual conversation by Paul, who also frequently disparages other sites during team discussions. This further reflects a dismissive and divisive approach to team collaboration.
 
 ---
 
