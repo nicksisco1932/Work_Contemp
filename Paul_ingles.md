@@ -110,6 +110,7 @@ He emphasized tool reimbursement and resisted redirection to protocol.
 Pattern Link:
 This fits an escalating pattern of on-site boundary pushing and attempts to assert dominance outside of professional process.
 
+---
 📌 Incident #7 – Culturally Insensitive Nicknaming
 
 Date: Ongoing (2025)
