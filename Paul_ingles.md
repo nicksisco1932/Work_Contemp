@@ -124,6 +124,18 @@ Notes:
 The nickname was not self-selected by the colleague and has not been publicly embraced. It was used in casual conversation by Paul, who also frequently disparages other sites during team discussions. This further reflects a dismissive and divisive approach to team collaboration.
 
 ---
+## 📌 Incident #8 – Sexist Labeling by Physician and Further Marginalization  
+**Date:** June 2025 (Reported)  
+**Context:**  
+After informing a Chinese-American colleague that Paul had been referring to her using a Mandarin phrase (“let’s go”) as a nickname—without her knowledge—she revealed that a physician had also nicknamed her “party girl” because she “doesn’t talk much.”
+
+**Impact:**  
+This behavior constitutes both racial and gender-based stereotyping. It infantilizes a professional woman based on her communication style and assigns personality traits inappropriately. These comments are not only unwanted but were unknown to the colleague, meaning they were being said behind her back and shared among others.
+
+**Pattern Commentary:**  
+This incident is part of a growing pattern of exclusionary, disrespectful conduct at this site. It highlights issues of misogyny, xenophobia, and toxic gossip culture that undermine psychological safety, trust, and equity among the clinical team.
+
+---
 
 ⚖️ Summary
 
